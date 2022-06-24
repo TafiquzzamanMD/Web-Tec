@@ -1,0 +1,74 @@
+.one{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.two{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;;
+}
+.three{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.four{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.five{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.six{
+    text-align: center;
+    left: 50px;
+    border-style:solid ;
+    border-width: 1;
+    padding-bottom: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+#sub{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    margin-left: 247px;
+    margin-right: 247px;
+    font-size: x-large;
+    background-color: rgb(22, 202, 187);
+    color: black;
+    border: 2px solid rgb(210, 8, 236);
+
+
+}
+body{
+    margin: 5px;
+    top: 10px;
+    
+}
